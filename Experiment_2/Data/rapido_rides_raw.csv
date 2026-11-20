@@ -1,0 +1,31 @@
+Ride_ID,Customer_Name,Pickup_Location,Ride_Distance_km,Vehicle_Type,Payment_Type,Total_Fare
+R1001,Aarav,Andheri Station,3.2,Bike,UPI,45.0
+R1002,Priya,Bandra Kurla Complex,5.5,Bike,Cash,75.0
+R1003,Rohan,Dadar TT,,Bike,UPI,35.0
+R1004,Sneha,Powai Lake,1.8,Bike,Cash,
+R1001,Aarav,Andheri Station,3.2,Bike,UPI,45.0
+R1005,Vikram,VESIT Gate,6.0,Auto,UPI,80.0
+R1006,Neha,Juhu Beach,4.1,Bike,Wallet,55.0
+R1007,Kabir,Chembur Naka,,Bike,Cash,40.0
+R1008,Anjali,Vashi Sector 17,8.2,Auto,UPI,110.0
+R1009,Rahul,Ghatkopar West,2.5,Bike,Wallet,30.0
+R1010,Simran,Borivali East,4.8,Auto,UPI,
+R1011,Karan,Kurla Station,1.2,Bike,Cash,20.0
+R1008,Anjali,Vashi Sector 17,8.2,Auto,UPI,110.0
+R1012,Pooja,Thane West,7.5,Auto,Wallet,95.0
+R1013,Amit,Malad West,,Bike,UPI,42.0
+R1014,Deepak,Goregaon East,3.6,Bike,Cash,48.0
+R1015,Riya,Lower Parel,5.0,Auto,UPI,70.0
+R1016,Manish,Colaba Causeway,2.1,Bike,Wallet,
+R1017,Sonal,Worli Sea Face,6.3,Auto,Cash,85.0
+R1018,Varun,Bhandup West,,Bike,UPI,38.0
+R1019,Kriti,Mulund East,4.4,Bike,UPI,58.0
+R1020,Suresh,Dharavi,1.5,Auto,Cash,25.0
+R1015,Riya,Lower Parel,5.0,Auto,UPI,70.0
+R1021,Nisha,Santacruz East,3.1,Bike,Wallet,44.0
+R1022,Yash,Vile Parle,2.8,Bike,UPI,
+R1023,Tanvi,Sion Circle,3.9,Bike,Cash,50.0
+R1024,Omkar,Navi Mumbai,,Auto,Wallet,65.0
+R1025,Shruti,Kandivali West,5.2,Bike,UPI,68.0
+R1011,Karan,Kurla Station,1.2,Bike,Cash,20.0
+R1026,Dev,Dadar West,4.0,Auto,UPI,55.0
